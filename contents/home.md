@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Xingchi Wu](https://wxclap.github.io)
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+He is currently a PhD student in the Department of Civil Engineering at Monash University Malaysia.
 
 #### Contact
 
