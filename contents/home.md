@@ -6,11 +6,11 @@ He is currently a PhD student in the Department of Civil Engineering at Monash U
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: Xingchi.Wu[at]Monash.edu
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.E., Transportation and Traffic Engineering, Chongqing Jiaotong University, 2022—2023.\
+B.E., Civil Engineering, Chongqing Jiaotong University, 2015—2019.
 
 #### Research Interests
 Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
