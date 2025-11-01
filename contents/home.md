@@ -1,7 +1,6 @@
 
 
-Xingchi Wu
-He is currently a PhD student in the Department of Civil Engineering at Monash University Malaysia.
+Xingchi Wu is currently a PhD student in the Department of Civil Engineering at Monash University Malaysia.
 
 #### Contact
 
