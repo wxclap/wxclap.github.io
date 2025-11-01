@@ -1,6 +1,6 @@
 
 
-[![Xingchi Wu](https://wxclap.github.io)
+[Xingchi Wu](https://wxclap.github.io)
 
 He is currently a PhD student in the Department of Civil Engineering at Monash University Malaysia.
 
@@ -13,5 +13,5 @@ M.E., Transportation and Traffic Engineering, Chongqing Jiaotong University, 202
 B.E., Civil Engineering, Chongqing Jiaotong University, 2015—2019.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Polymer Modified Bitumen, Sustainable Consruction Materials, Molecular Dynamic Simulations.
 
