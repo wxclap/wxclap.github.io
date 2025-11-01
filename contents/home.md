@@ -1,7 +1,6 @@
 
 
-[Xingchi Wu](https://wxclap.github.io)
-
+Xingchi Wu
 He is currently a PhD student in the Department of Civil Engineering at Monash University Malaysia.
 
 #### Contact
@@ -13,5 +12,5 @@ M.E., Transportation and Traffic Engineering, Chongqing Jiaotong University, 202
 B.E., Civil Engineering, Chongqing Jiaotong University, 2015—2019.
 
 #### Research Interests
-Polymer Modified Bitumen, Sustainable Consruction Materials, Molecular Dynamic Simulations.
+Waste Plastic, Polymer Modified Bitumen, Sustainable Consruction Materials, Molecular Dynamic Simulation.
 
