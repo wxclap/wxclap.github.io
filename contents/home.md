@@ -6,7 +6,7 @@ He is currently a PhD student in the Department of Civil Engineering at Monash U
 
 #### Contact
 
-Email: Xingchi.Wu[at]Monash.edu
+Email: Xingchi.wu@monash.edu
 
 #### Education
 M.E., Transportation and Traffic Engineering, Chongqing Jiaotong University, 2022—2023.\
